@@ -1,24 +1,18 @@
-# todo-vue3
+# VueJS 3.0 Todo App + Composition API
 
-## Project setup
-```
-npm install
-```
+## Things I have done
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Setup
+- Create a new Todo Form
+- A function on form Submit
+- Keep track of the input (reactive) using Refs
+- String property to store user input
+- See for changes
+- Log user input on Submit
+- Create a String array to keep track of the todos
+- Push todos to the array, with "done" as "false"
+- Display the list of todos
+- Check if Done & Line thru the todo
+- Button to remove Todo
+- "Mark all Done" Button
+- "Remove All" Button
